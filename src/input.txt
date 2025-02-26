@@ -1,0 +1,30 @@
+y
+series
+2018
+The Book of Boba Fett
+Lucasfilm
+8
+y
+Series
+2021
+Andor
+Lucasfilm
+8
+n
+y
+year
+2018
+y
+publisher
+Lucasfilm
+y
+name
+Star Wars Rebels
+n
+y
+name
+aaa
+y
+Name
+The Book of Boba Fett
+n

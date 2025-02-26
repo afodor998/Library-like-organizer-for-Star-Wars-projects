@@ -1,0 +1,15 @@
+SERIES;Star Wars Rebels,2014,Disney XD,120
+MOVIE;Star Wars: Episode IV - A New Hope,1977,Twentieth Century Fox,150
+TOY;Lightsaber,2011,Disney,100 
+SERIES;Star Wars: The Clone Wars,2008,Cartoon Network,120
+GAME;LEGO Star Wars: The Complete Saga,2007,LucasArts,Experience the best era of Star Wars as Lego minifigures
+MOVIE;Star Wars: Episode V - The Empire Strikes Back,1980,Twentieth Century Fox,120
+
+LEGO;LEGO Star Wars: Death Star,2016,LEGO,4016
+LEGO;LEGO Star Wars: AT-AT,2020,LEGO,1267
+LEGO;Diorama,2003,Lego,5000
+LEGO;Starfighter,2000,LEGO,2354
+LEGO;Training on Dagobah,2018,LEGO,512
+MOVIE;Star Wars: The Rise of Skywalker,2019,Lucasfilm,124
+GAME;Knights of the Old Republic,2011,Lucasarts,Play as Jedi Knights and defend the Old Republic
+MOVIE;Solo,2017,Disney,123
